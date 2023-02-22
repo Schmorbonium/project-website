@@ -1,3 +1,16 @@
+# Schmorbonium Senior Project Website
+
+This is the repository hosting the website for the senior project of Daniel Nelson, Isaac Christensen, and Alex Guymon at the University of Utah.
+
+Hosted using GitHub pages at [schmorbonium.github.io/project-website](https://schmorbonium.github.io/project-website/)
+
+This website is based on the Agency Jekyll Theme. Original contents of that theme's repo are below
+
+---
+
+
+
+
 # Agency Jekyll Theme
 [![RubyGems Downloads](https://img.shields.io/gem/dt/jekyll-agency?label=gem%20downloads)](https://rubygems.org/gems/jekyll-agency)
 [![LICENSE](https://img.shields.io/badge/license-MIT-blue)](/LICENSE.txt)
