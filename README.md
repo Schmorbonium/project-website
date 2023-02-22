@@ -2,7 +2,7 @@
 
 This is the repository hosting the website for the senior project of Daniel Nelson, Isaac Christensen, and Alex Guymon at the University of Utah.
 
-Hosted using GitHub pages at [schmorbonium.github.io/project-website](schmorbonium.github.io/project-website)
+Hosted using GitHub pages at [schmorbonium.github.io/project-website](https://schmorbonium.github.io/project-website/)
 
 This website is based on the Agency Jekyll Theme. Original contents of that theme's repo are below
 
