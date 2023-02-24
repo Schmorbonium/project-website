@@ -11,7 +11,7 @@
 # English (default)
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
+    title: Welcome to Schmorbonium!
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
@@ -32,9 +32,9 @@ en: &DEFAULT_EN
         icon: fab fa-book-open-cover
 
   about:
-    title: "THE PROJECT"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "The 3-D BreakOut"
+    text: "Our Project"
+    body: "Our mission is to challenge the standard 2-dimensional circuit board design of traditional general-purpose computers and create a one-of-a-kind artistic expression that doubles as a physical demonstration of the often unseen and unknown internal workings of modern computing. We aim to inspire creativity, curiosity, and a deeper understanding of the intersection between technology and art, ultimately transforming our little corner of the world into a slightly more beautiful and intellectually aware place."
     section: about
 
   portfolio:
@@ -62,7 +62,7 @@ en: &DEFAULT_EN
   #       logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "PEOPLE"
+    title: "Our Team"
     subtext: We are all seniors studying computer engineering at the University of Utah.
     section: team
     people: # note: Icons are pulled from https://fontawesome.com/
@@ -73,15 +73,13 @@ en: &DEFAULT_EN
           - url: https://github.com/dknelson9876
             icon: fab fa-github
       - name: "Isaac Christensen"
-        role: "Does things"
-        image: assets/img/team/2.jpg
+        role: "senior distractor"
+        image: assets/img/team/FakeZeek.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: https://www.linkedin.com/in/isaac-christensen-1520851a6/
+            icon: fab fa-linkedin-f
+          - url: https://github.com/izeek182
+            icon: fab fa-github
       - name: "Alex Guymon"
         role: "Does more things"
         image: assets/img/team/500x500.jpg

@@ -18,10 +18,10 @@ url    : "schmorbonium.github.io" # the base hostname & protocol for your site, 
 baseurl: "project-website" # the subpath of your site, e.g. /blog
 
 title      : Schmorbonium Senior Project
-email      : your-email@example.com #this is also the email contact forms will go to
+email      : Schmorby@Schmorbonium.com #this is also the email contact forms will go to
 description: "Documenting our efforts to build a thing"
 author     : Daniel Nelson, Isaac Christensen, and Alex Guymon
-# logo:     #optional, defaults to site title
+logo       : assets\img\Shmorby.png     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
 
@@ -37,4 +37,4 @@ markdown: kramdown
 
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
-# formspree_form_path: "f/a_form_id"
+formspree_form_path: "f/a_form_id"

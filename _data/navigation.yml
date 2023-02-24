@@ -21,8 +21,8 @@ en: &DEFAULT_EN
       section: team
     - title: "Timeline"
       section: timeline
-    # - title: "Contact"
-    #   section: contact
+    - title: "Code"
+      url: https://github.com/orgs/Schmorbonium/repositories
     - title: "Theme Source"
       url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
