@@ -68,7 +68,7 @@ en: &DEFAULT_EN
     people: # note: Icons are pulled from https://fontawesome.com/
       - name: "Daniel Nelson"
         role: "Does stuff"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/Daniel.jpg
         social:
           - url: https://github.com/dknelson9876
             icon: fab fa-github
@@ -77,7 +77,7 @@ en: &DEFAULT_EN
         image: assets/img/team/FakeZeek.jpg
         social:
           - url: https://www.linkedin.com/in/isaac-christensen-1520851a6/
-            icon: fab fa-linkedin-f
+            icon: fab fa-linkedin
           - url: https://github.com/izeek182
             icon: fab fa-github
       - name: "Alex Guymon"
