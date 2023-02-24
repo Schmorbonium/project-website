@@ -17,10 +17,10 @@ en: &DEFAULT_EN
       section: about
     - title: "Meeting Logs"
       section: portfolio
-    - title: "People"
-      section: team
     - title: "Timeline"
       section: timeline
+    - title: "People"
+      section: team
     - title: "Code"
       url: https://github.com/orgs/Schmorbonium/repositories
     - title: "Theme Source"
