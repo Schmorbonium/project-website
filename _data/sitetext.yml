@@ -23,13 +23,13 @@ en: &DEFAULT_EN
     list:
       - title: "Wires"
         desc: "There's gonna be a lot of wires"
-        icon: fas fa-brain-circuit #find more at https://fontawesome.com/icons
+        icon: fas fa-network-wired #find more at https://fontawesome.com/icons
       - title: "Art"
         desc: "It will look cool"
         icon: fas fa-palette
       - title: "Education"
         desc: "It will make people want to learn about computers"
-        icon: fab fa-book-open-cover
+        icon: fab fa-book-open
 
   about:
     title: "The 3-D BreakOut"
@@ -38,7 +38,7 @@ en: &DEFAULT_EN
     section: about
 
   portfolio:
-    title: "MEETING LOGS, I GUESS"
+    title: "MEETING LOGS"
     text: "A record of the things we talk about"
     section: portfolio
     closebutton: "Close Log"
