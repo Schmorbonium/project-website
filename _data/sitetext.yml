@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon: fas fa-palette
       - title: "Education"
         desc: "It will make people want to learn about computers"
-        icon: fab fa-book-open
+        icon: fab fa-graduation-cap
 
   about:
     title: "The 3-D BreakOut"
