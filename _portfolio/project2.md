@@ -1,19 +1,15 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+caption: #what displays in the portfolio grid:
+  title: Future Meeting
+  subtitle: Future Date
+  thumbnail: assets/img/portfolio/wire.jpg
+  
+#what displays when the item is clicked:
+title: Future Meeting
+subtitle: Future Date
+image: assets/img/portfolio/wire.jpg #main image, can be a link or a file in assets/img/portfolio
+alt: image alt text
 
-caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
 ---
+This is where the details and results of a meeting that happens will go.
 
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
-{:.list-inline}
-
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
