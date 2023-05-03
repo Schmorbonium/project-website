@@ -18,18 +18,18 @@ en: &DEFAULT_EN
 
   services:
     title: "PURPOSE"
-    text: "The thing we're building"
+    text: "We are building SCMB-1 to provide an experience of learning to show computing and its intricacy to the world."
     section: services
     list:
-      - title: "Wires"
-        desc: "There's gonna be a lot of wires"
+      - title: "Blow the CPU Up"
+        desc: "We are breaking the CPU into unique sections to show a CPU running individual instructions"
         icon: fas fa-network-wired #find more at https://fontawesome.com/icons
       - title: "Art"
-        desc: "It will look cool"
+        desc: "It will be laid out to aesthetically bring the viewer on a journey of computing discovery"
         icon: fas fa-palette
       - title: "Education"
-        desc: "It will make people want to learn about computers"
-        icon: fab fa-graduation-cap
+        desc: "Allow anyone to discover how a CPU takes our data and processes it."
+        icon: fas fa-graduation-cap
 
   about:
     title: "The 3-D BreakOut"
@@ -81,7 +81,7 @@ en: &DEFAULT_EN
           - url: https://github.com/izeek182
             icon: fab fa-github
       - name: "Alex Guymon"
-        role: "Does more things"
+        role: "Simulator and Processor Control"
         image: assets/img/team/AlexLowerDecker.png
         social:
           - url: https://github.com/CompuGuy99
