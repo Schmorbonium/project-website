@@ -84,6 +84,8 @@ en: &DEFAULT_EN
         role: "Simulator and Processor Control"
         image: assets/img/team/AlexLowerDecker.png
         social:
+          - url: https://www.linkedin.com/in/alex-guymon-18a9a91a4/
+            icon: fab fa-linkedin
           - url: https://github.com/CompuGuy99
             icon: fab fa-github
 
