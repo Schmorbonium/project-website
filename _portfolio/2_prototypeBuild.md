@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Prototype Construction
   subtitle: April 15, 17, 18, 19
-  thumbnail: assets/img/prototype5.jpg
+  thumbnail: assets/img/portfolio/prototype5_3x2.jpg
   
 #what displays when the item is clicked:
 title: Prototype Construction
 subtitle: April 15, 17, 18, 19
-image: assets/img/prototype5.jpg #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/portfolio/prototype5_3x2.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
@@ -15,8 +15,8 @@ Upon receiving approval for our prototype, Isaac ordered all of the parts we wou
 
 Below are some images from during the build process:
 
-![prototype in progress](../assets/img/prototype1.jpg)
-![prototype in progress](../assets/img/prototype2.jpg)
-![prototype in progress](../assets/img/prototype3.jpg)
-![prototype in progress](../assets/img/prototype4.jpg)
-![prototype in progress](../assets/img/prototype5.jpg)
+![prototype in progress](assets/img/prototype1.jpg)
+![prototype in progress](assets/img/prototype2.jpg)
+![prototype in progress](assets/img/prototype3.jpg)
+![prototype in progress](assets/img/prototype4.jpg)
+![prototype in progress](assets/img/prototype5.jpg)

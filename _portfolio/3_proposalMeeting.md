@@ -26,7 +26,7 @@ This also involved splitting the processor into a region for each team member, s
 - Daniel: ALU and Register File
 - Alex: Controller and Program Counter
 
-![A schematic with colored blocks outlining the regions of development](../assets/img/schematic_regions.png)
+![A schematic with colored blocks outlining the regions of development](assets/img/schematic_regions.png)
 
 The software was also split into three stages which can implemented in parallel:
 - Isaac: Programmer
