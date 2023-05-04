@@ -67,7 +67,7 @@ en: &DEFAULT_EN
     section: team
     people: # note: Icons are pulled from https://fontawesome.com/
       - name: "Daniel Nelson"
-        role: "Does stuff"
+        role: "Hardware ALU and Register File; Software Compiler"
         image: assets/img/team/Daniel.jpg
         social:
           - url: https://github.com/dknelson9876
