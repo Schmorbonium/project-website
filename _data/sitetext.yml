@@ -73,7 +73,7 @@ en: &DEFAULT_EN
           - url: https://github.com/dknelson9876
             icon: fab fa-github
       - name: "Isaac Christensen"
-        role: "senior distractor"
+        role: "Memory, IO, and Programmer"
         image: assets/img/team/FakeZeek.jpg
         social:
           - url: https://www.linkedin.com/in/isaac-christensen-1520851a6/
@@ -91,21 +91,52 @@ en: &DEFAULT_EN
 
   timeline:
     title: "TIMELINE"
-    text: "How this will happen"
+    text: "Staged Development of the processor"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
+      - title: "Work Begins"
         year: "February 2023"
-        desc: "We had some ideas, and this website was created."
-        image: assets/img/timeline/1.jpg
+        desc: "We began planning this project, selecting the architecture, and researching the potential."
+        image: assets/img/timeline/RiscVlogo.jpg
         alt:
-      # - title: "An Agency is Born"
-      #   year: "March 2011"
-      #   desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-      #   image: assets/img/timeline/2.jpg
-      #   alt:
+      - title: "The demo Was born"
+        year: "April 2023"
+        desc: "We completed a 16 bit version of the final required ALU in the RISC-V project. With the many lessons learned we now look forward to future plans"
+        image: assets/img/timeline/2.jpg
+        alt:
+      - title: "Hardware Stage 1"
+        year: "July 2023"
+        desc: "In the first stage of hardware creation, we will generate Verilog representation of the full processor, ensuring Inter-Region Communication Definition is accurate"
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+      - title: "Hardware Stage 2"
+        year: "August 2023"
+        desc: "We will design, order, and assemble PBC's for each of the processor regions, This will allow for advance debugging. This will also serve as a prototype for what we will present on demo day."
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+      - title: "Hardware Stage 3"
+        year: "November 2023"
+        desc: "We will adapt the PCB design to utilize full TTL logic, then with new PCB we can part by part replace components of the processor "
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+
+      - title: "Software Stage A"
+        year: "Undated"
+        desc: "Simulator:The user facing program that interfaces with the compiler and programmer "
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+      - title: "Software Stage B"
+        year: "Undated"
+        desc: "Compiler:Chose RISC-V so that we can use gcc or clang, But we need to be able to target our CPU."
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+      - title: "Software Stage C"
+        year: "Undated"
+        desc: "Programmer: Some software/hardware combination that allows for the processor to be \"flashed\" with the program to be run"
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
       # - title: "Jekyll Theme is created"
       #   year: "2019"
       #   desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
@@ -113,7 +144,7 @@ en: &DEFAULT_EN
       #   alt: image alt text
       - title: "Demo Day"
         year: "December 2023"
-        desc: "We have to show off whatever we built"
+        desc: "Much to the surprise of everyone involved, we will present our fully functional RISC-V processor"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
