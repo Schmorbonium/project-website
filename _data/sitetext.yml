@@ -101,42 +101,36 @@ en: &DEFAULT_EN
         desc: "We began planning this project, selecting the architecture, and researching the potential."
         image: assets/img/timeline/RiscVlogo.jpg
         alt:
-      - title: "The demo Was born"
+      - title: "The Demo was Born"
         year: "April 2023"
         desc: "We completed a 16 bit version of the final required ALU in the RISC-V project. With the many lessons learned we now look forward to future plans"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Hardware Stage 1"
+      - title: "Compiler Tests"
         year: "July 2023"
-        desc: "In the first stage of hardware creation, we will generate Verilog representation of the full processor, ensuring Inter-Region Communication Definition is accurate"
+        desc: "Daniel figured out how to compile C programs for RISCV that can use private libraries, standard libraries, and configure memory regions in the binary"
+      - title: "Hardware Revision 1"
+        year: "September 2023"
+        desc: "To allow for time to correct errors and improve designs, we will order the first set of PCBs in early September. This will allow us to test our communication protocols and early visual ideas, while preserving time to iterate on them."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Hardware Stage 2"
-        year: "August 2023"
-        desc: "We will design, order, and assemble PBC's for each of the processor regions, This will allow for advance debugging. This will also serve as a prototype for what we will present on demo day."
+      - title: "Software Milestone 1"
+        year: "September 2023"
+        desc: "By the end of September, we intend to be able to load a RISCV binary onto a blue pill and step through the instructions"
+      - title: "Hardware Revision 2"
+        year: "September 2023"
+        desc: "Having learned from the first revision and made improvements, we plan to order the second set of PCBs at the end of September"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Hardware Stage 3"
+      - title: "Hardware Revision 3"
+        year: "October 2023"
+        desc: "By the third week of October, we will be prepared to order the final versions of our PCBs"
+      - title: "Software Milestone 2"
+        year: "October 2023"
+        desc: "By the end of October, Alex will have a minimal working GUI that can connect the compiler and the programmer with programs that were already written"
+      - title: "Software Milestone 3"
         year: "November 2023"
-        desc: "We will adapt the PCB design to utilize full TTL logic, then with new PCB we can part by part replace components of the processor "
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-
-      - title: "Software Stage A"
-        year: "Undated"
-        desc: "Simulator:The user facing program that interfaces with the compiler and programmer "
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Software Stage B"
-        year: "Undated"
-        desc: "Compiler:Chose RISC-V so that we can use gcc or clang, But we need to be able to target our CPU."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Software Stage C"
-        year: "Undated"
-        desc: "Programmer: Some software/hardware combination that allows for the processor to be \"flashed\" with the program to be run"
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
+        desc: "By the middle of November, we will have a functioning game (likely Pong or Tetris) that can be loaded onto the project"
       # - title: "Jekyll Theme is created"
       #   year: "2019"
       #   desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
