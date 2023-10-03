@@ -23,8 +23,8 @@ en: &DEFAULT_EN
       section: team
     - title: "Code"
       url: https://github.com/orgs/Schmorbonium/repositories
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    - title: "Documentation"
+      url: https://schmorbonium.github.io/ECE-4710
 en-US:
   <<: *DEFAULT_EN
 en-CA:
